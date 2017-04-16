@@ -11,8 +11,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Football" target="1.5" />
-      <module name="Futball" target="1.5" />
+      <module name="Football" target="1.8" />
+      <module name="Futball" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
